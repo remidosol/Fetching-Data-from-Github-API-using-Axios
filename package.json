@@ -1,0 +1,16 @@
+{
+  "name": "githubAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "remidosol <remidosol@serverigaram.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remidosol/Fetching-Data-from-Github-API-using-Axios.git"
+  }
+}
